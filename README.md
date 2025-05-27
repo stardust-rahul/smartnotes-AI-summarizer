@@ -1,4 +1,5 @@
 # Smart Notes - AI-Powered Note Taking App
+[Test Demo](stardust-smartnotes.netlify.app)
 
 A modern note-taking application with AI-powered summarization capabilities, built with React, TypeScript, and Google Cloud Vertex AI.
 
